@@ -88,35 +88,34 @@
 - [RockEnt](https://images.indihometv.com/images/channels/image_ch_rockent.png)
 - [FashionTV](https://images.indihometv.com/images/channels/image_ch_fashiontv.png)
 
-- [nama](https://images.indihometv.com/images/channels/image_ch_hits.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_hitsnow.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_studiouniversal.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_hitsmovies.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_thrill.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cinemaworld.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_axn.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_tlc.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_kix.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_lifetime.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_crime+investigation.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_afn.png)
+- [Hits](https://images.indihometv.com/images/channels/image_ch_hits.png)
+- [HotsNow](https://images.indihometv.com/images/channels/image_ch_hitsnow.png)
+- [StudioUniversal](https://images.indihometv.com/images/channels/image_ch_studiouniversal.png)
+- [HitsMovies](https://images.indihometv.com/images/channels/image_ch_hitsmovies.png)
+- [Thrill](https://images.indihometv.com/images/channels/image_ch_thrill.png)
+- [CinemaWorld](https://images.indihometv.com/images/channels/image_ch_cinemaworld.png)
+- [AXN](https://images.indihometv.com/images/channels/image_ch_axn.png)
+- [TLC](https://images.indihometv.com/images/channels/image_ch_tlc.png)
+- [KIX](https://images.indihometv.com/images/channels/image_ch_kix.png)
+- [Lifetime](https://images.indihometv.com/images/channels/image_ch_lifetime.png)
+- [Crime](https://images.indihometv.com/images/channels/image_ch_crime+investigation.png)
+- [AFN](https://images.indihometv.com/images/channels/image_ch_afn.png)
 
 
-- [nama](https://images.indihometv.com/images/channels/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg)
-- [nama](https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_abcaustrlia.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_euronews.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_france24.png)
-- [nama](https://i.imgur.com/wdg6mof.jpeg)
-- [nama](https://images.indihometv.com/images/channels/image_ch_bloomberg.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_chinesenewsasia.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cnninter.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_aljazeera.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cnbcasia.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_tvbsnews.png)
+- [BBCNews](https://images.indihometv.com/images/channels/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg)
+- [NHK](https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png)
+- [ABCAustralia](https://images.indihometv.com/images/channels/image_ch_abcaustrlia.png)
+- [Euronews](https://images.indihometv.com/images/channels/image_ch_euronews.png)
+- [France24](https://images.indihometv.com/images/channels/image_ch_france24.png)
+- [RT](https://i.imgur.com/wdg6mof.jpeg)
+- [Bloomberg](https://images.indihometv.com/images/channels/image_ch_bloomberg.png)
+- [chinesenewsasia](https://images.indihometv.com/images/channels/image_ch_chinesenewsasia.png)
+- [CNNInter](https://images.indihometv.com/images/channels/image_ch_cnninter.png)
+- [Aljazeera](https://images.indihometv.com/images/channels/image_ch_aljazeera.png)
+- [CNBCAsia](https://images.indihometv.com/images/channels/image_ch_cnbcasia.png)
+- [tvbsnews](https://images.indihometv.com/images/channels/image_ch_tvbsnews.png)
 - [nama](https://images.indihometv.com/images/channels/image_ch_dwtv.png)
 - [nama](https://images.indihometv.com/images/channels/image_ch_tv5monde.png)
-
 
 - [Aniplus](https://images.indihometv.com/images/channels/image_ch_aniplus.png)
 - [CBeebies](https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg)
@@ -133,28 +132,17 @@
 - [DaVinci](https://images.indihometv.com/images/channels/image_ch_davinci.png)
 - [Moonbug](https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png)
 
+- [CelestialMovies](https://images.indihometv.com/images/channels/image_ch_celestialmovies.png)
+- [Galaxy](https://images.indihometv.com/images/channels/image_ch_galaxy.png)
+- [GalaxyPremi](https://images.indihometv.com/images/channels/image_ch_galaxypremium.png)
+- [Arirang](https://images.indihometv.com/images/channels/image_ch_arirang.png)
+- [TVNMovies](https://images.indihometv.com/images/channels/image_ch_tvnmovies.png)
+- [ChineseDrama](https://images.indihometv.com/images/channels/image_ch_chinesedrama.png)
+- [CCTV4](https://images.indihometv.com/images/channels/image_ch_cctv4.png)
+- [PhoenixCH](https://images.indihometv.com/images/channels/image_ch_phoenixch.png)
+- [TVN](https://images.indihometv.com/images/channels/image_ch_tvn.png)
+- [KPlus](https://images.indihometv.com/images/channels/image_ch_kplus.png)
+- [KBSWorld](https://images.indihometv.com/images/channels/image_ch_kbsworld.png)
+- [SonyOne](https://images.indihometv.com/images/channels/image_ch_sony_one.png)
 
-
-
-
-
-
-
-
-
-- [nama](https://images.indihometv.com/images/channels/image_ch_celestialmovies.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_galaxy.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_galaxypremium.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_arirang.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_tvnmovies.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_chinesedrama.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cctv4.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_phoenixch.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_tvn.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_kplus.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_kbsworld.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_sony_one.png)
-
-
-
-- [nama](https://images.indihometv.com/images/channels/image_ch_zeebioskop.png)
+- [ZeeBioskop](https://images.indihometv.com/images/channels/image_ch_zeebioskop.png)
