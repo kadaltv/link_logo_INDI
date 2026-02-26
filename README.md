@@ -1,4 +1,162 @@
 
 # Daftar Link Logo Indihome TV
 - [Google](https://google.com)
-- [GitHub](https://github.com)
+
+- [Animal Planet](https://images.indihometv.com/images/channels/image_ch_animal%20planet.png)
+- [Love Nature](https://images.indihometv.com/images/channels/image_ch_lovenature.png)
+- [Discovery Asia](https://images.indihometv.com/images/channels/image_ch_discoveryasia.png)
+- [Curiosity](https://images.indihometv.com/images/channels/image_ch_curiosity.png)
+- [CGTN DOC](https://images.indihometv.com/images/channels/image_ch_cgtndocumentary.png)
+- [History](https://images.indihometv.com/images/channels/image_ch_history.png)
+- [Discovery](https://images.indihometv.com/images/channels/image_ch_discovery.png)
+- [HGTV](https://images.indihometv.com/images/channels/image_ch_hgtv.png)
+
+- [SCTV](https://images.indihometv.com/images/channels/image_ch_sctv.png)
+- [Indosiar](https://images.indihometv.com/images/channels/image_ch_indosiar.png)
+- [Moji](https://images.indihometv.com/images/channels/image_ch_moji.png)
+- [RCTI](https://images.indihometv.com/images/channels/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg)
+- [MNC](https://images.indihometv.com/images/channels/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg)
+- [GTV](https://images.indihometv.com/images/channels/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg)
+- [INews](https://images.indihometv.com/images/channels/image_ch_inews.png)
+- [SindoNews](https://images.indihometv.com/images/channels/image_ch_sindonews.png)
+- [SinpoTV](https://i.imgur.com/HoPR1yv.jpeg)
+
+- [TransTV](https://images.indihometv.com/images/channels/image_ch_transtv.png)
+- [Trans7](https://images.indihometv.com/images/channels/image_ch_trans7.png)
+- [TVOne](https://images.indihometv.com/images/channels/image_ch_tvone.png)
+- [ANTV](https://images.indihometv.com/images/channels/image_ch_antv.png)
+- [MetroTV](https://images.indihometv.com/images/channels/image_ch_metrotv.png)
+- [KompasTV](https://images.indihometv.com/images/channels/image_ch_kompastv.png)
+- [MDTV](https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg)
+- [TVRI](https://images.indihometv.com/images/channels/image_ch_tvri.png)
+- [TVRI World](https://images.indihometv.com/images/channels/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg)
+- [RTV](https://images.indihometv.com/images/channels/image_ch_rtv.png)
+- [RodjaTV](https://images.indihometv.com/images/channels/image_ch_rodjatv.png)
+- [JTV](https://images.indihometv.com/images/channels/image_ch_jtv.png)
+- [Berita Satu](https://images.indihometv.com/images/channels/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg)
+- [BTV](https://images.indihometv.com/images/channels/image_ch_btv.png)
+- [BaliTV](https://images.indihometv.com/images/channels/image_ch_balitv.png)
+- [JAKTV](https://images.indihometv.com/images/channels/image_ch_jaktv.png)
+- [NusantaraTV](https://images.indihometv.com/images/channels/image_ch_nusantaratv.png)
+- [AntaraTV](https://images.indihometv.com/images/channels/imageCir_180x180-CL-AntaraTV_2025_10_24_15_50_32.jpg)
+- [Prambors](https://images.indihometv.com/images/channels/image_ch_prambors.png)
+- [IDX](https://images.indihometv.com/images/channels/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg )
+- [JawaPos](https://images.indihometv.com/images/channels/image_ch_jawapos.png)
+- [CNN_Indo](https://images.indihometv.com/images/channels/image_ch_cnnindonesia.png)
+- [CNBC_Indo](https://images.indihometv.com/images/channels/image_ch_cnbcindonesia.png)
+
+- [TVMU](https://images.indihometv.com/images/channels/image_ch_tvmu.png)
+- [TVMUI](https://images.indihometv.com/images/channels/image_ch_tvmui.png)
+- [DMITV](https://images.indihometv.com/images/channels/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg)
+- [MQTV](https://images.indihometv.com/images/channels/image_ch_mqtv.png)
+- [MTA](https://images.indihometv.com/images/channels/image_ch_mta.png)
+- [DaaiTV](https://images.indihometv.com/images/channels/image_ch_daaitv.png)
+- [AlquranalKareem](https://images.indihometv.com/images/channels/image_ch_alquranalkareem.png)
+- [TV9](https://images.indihometv.com/images/channels/image_ch_tv9.png)
+- [UChannel](https://images.indihometv.com/images/channels/image_ch_uchannel.png)
+
+- [MAXStream](https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png) 
+- [MAXReel](https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg)
+- [MAXStreak](https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXStreak_2026_01_30_13_56_10.jpg)
+- [CLMAXKids](https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg)
+- [MAXSEats](https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg)
+- [MAXSports](https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg)
+
+- [Flik](https://images.indihometv.com/images/channels/image_ch_flik.png)
+- [BioskopIndonesia](https://images.indihometv.com/images/channels/image_ch_bioskopindonesia.png)
+- [CitraDrama](https://images.indihometv.com/images/channels/image_ch_citradrama.png)
+- [CitraDangdut](https://images.indihometv.com/images/channels/image_ch_citradangdut.png)
+- [DuniaLain](https://images.indihometv.com/images/channels/image_ch_dunialain.png)
+
+- [Spotv](https://images.indihometv.com/images/channels/image_ch_spotv.png)
+- [Spotv2](https://images.indihometv.com/images/channels/image_ch_spotv2.png)
+- [NBATV](https://images.indihometv.com/images/channels/image_ch_nbatv.png)
+- [HorizonSport](https://images.indihometv.com/images/channels/image_ch_horizonsport.png)
+- [FightSport](https://images.indihometv.com/images/channels/image_ch_fightsport.png)
+
+- [MusikIndonesia](https://images.indihometv.com/images/channels/image_ch_musikindonesia.png)
+- [IMC](https://images.indihometv.com/images/channels/image_ch_imc.png)
+
+- [HBO](https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg)
+- [HBOHits](https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg)
+- [HBOSignature](https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg)
+- [HBOFamily](https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg)
+- [Cinemax](https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg)
+
+- [WarnerTV](https://images.indihometv.com/images/channels/image_ch_warnertv.png)
+- [RockAction](https://images.indihometv.com/images/channels/image_ch_rockaction.png)
+- [RockEnt](https://images.indihometv.com/images/channels/image_ch_rockent.png)
+- [FashionTV](https://images.indihometv.com/images/channels/image_ch_fashiontv.png)
+
+- [nama](https://images.indihometv.com/images/channels/image_ch_hits.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_hitsnow.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_studiouniversal.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_hitsmovies.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_thrill.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cinemaworld.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_axn.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_tlc.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_kix.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_lifetime.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_crime+investigation.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_afn.png)
+
+
+- [nama](https://images.indihometv.com/images/channels/imageCir_180x180_BBC_NEWS_2025_12_03_10_30_32.jpg)
+- [nama](https://images.indihometv.com/images/channels/image_ch_nhkworldjapan.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_abcaustrlia.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_euronews.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_france24.png)
+- [nama](https://i.imgur.com/wdg6mof.jpeg)
+- [nama](https://images.indihometv.com/images/channels/image_ch_bloomberg.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_chinesenewsasia.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cnninter.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_aljazeera.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cnbcasia.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_tvbsnews.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_dwtv.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_tv5monde.png)
+
+
+- [nama](https://images.indihometv.com/images/channels/image_ch_aniplus.png)
+- [nama](https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg)
+- [nama](https://images.indihometv.com/images/channels/image_ch_animax.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_horee!.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_nickjr.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_dreamworks.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_nick.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_duniaanak.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cartoonito.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_mykidz.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_mentaritv.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_davinci.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_moonbug kids.png)
+- 
+  
+
+
+
+
+
+
+
+
+
+
+- [nama](https://images.indihometv.com/images/channels/image_ch_celestialmovies.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_galaxy.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_galaxypremium.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_arirang.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_tvnmovies.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_chinesedrama.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_cctv4.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_phoenixch.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_tvn.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_kplus.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_kbsworld.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_sony_one.png)
+
+
+
+- [nama](https://images.indihometv.com/images/channels/image_ch_zeebioskop.png)
