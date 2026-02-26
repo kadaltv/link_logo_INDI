@@ -118,22 +118,20 @@
 - [nama](https://images.indihometv.com/images/channels/image_ch_tv5monde.png)
 
 
-- [nama](https://images.indihometv.com/images/channels/image_ch_aniplus.png)
-- [nama](https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg)
-- [nama](https://images.indihometv.com/images/channels/image_ch_animax.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_horee!.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_nickjr.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_dreamworks.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_nick.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_duniaanak.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_cartoonito.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_mykidz.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_mentaritv.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_davinci.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png)
-- 
-  
+- [Aniplus](https://images.indihometv.com/images/channels/image_ch_aniplus.png)
+- [CBeebies](https://images.indihometv.com/images/channels/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg)
+- [Animax](https://images.indihometv.com/images/channels/image_ch_animax.png)
+- [CartoonNetwork](https://images.indihometv.com/images/channels/image_ch_cartoonnetwork.png)
+- [Horee!](https://images.indihometv.com/images/channels/image_ch_horee!.png)
+- [NickJR](https://images.indihometv.com/images/channels/image_ch_nickjr.png)
+- [DreamWorks](https://images.indihometv.com/images/channels/image_ch_dreamworks.png)
+- [Nick](https://images.indihometv.com/images/channels/image_ch_nick.png)
+- [DuniaAnak](https://images.indihometv.com/images/channels/image_ch_duniaanak.png)
+- [Cartoonito](https://images.indihometv.com/images/channels/image_ch_cartoonito.png)
+- [MyKidz](https://images.indihometv.com/images/channels/image_ch_mykidz.png)
+- [MentariTV](https://images.indihometv.com/images/channels/image_ch_mentaritv.png)
+- [DaVinci](https://images.indihometv.com/images/channels/image_ch_davinci.png)
+- [Moonbug](https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png)
 
 
 
