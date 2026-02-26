@@ -131,7 +131,7 @@
 - [nama](https://images.indihometv.com/images/channels/image_ch_mykidz.png)
 - [nama](https://images.indihometv.com/images/channels/image_ch_mentaritv.png)
 - [nama](https://images.indihometv.com/images/channels/image_ch_davinci.png)
-- [nama](https://images.indihometv.com/images/channels/image_ch_moonbug kids.png)
+- [nama](https://images.indihometv.com/images/channels/image_ch_moonbug%20kids.png)
 - 
   
 
